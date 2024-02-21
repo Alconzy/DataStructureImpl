@@ -1,4 +1,4 @@
-package src.LFUAlgorithm;
+package LFUAlgorithm;
 
 public class LFUCacheDemo {
 }

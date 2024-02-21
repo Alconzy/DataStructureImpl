@@ -1,4 +1,4 @@
-package src.LFUAlgorithm;
+package LFUAlgorithm;
 
 /**
  * Reference 参考

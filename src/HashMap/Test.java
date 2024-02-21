@@ -1,8 +1,8 @@
-package src.HashMap;
+package HashMap;
 
 public class Test {
 	public static void main(String[] args) {
-		LinearHashMap<String, String> hashMap = new LinearHashMap(99);
+		LinearHashMap<Object, Object> hashMap = new LinearHashMap<>(99);
 		hashMap.put("Alan", "Java");
 		hashMap.put("Code", "Skill");
 		hashMap.put("Rich", "Yes");

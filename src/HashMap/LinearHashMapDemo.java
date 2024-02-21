@@ -1,4 +1,4 @@
-package src.HashMap;
+package HashMap;
 
 public class LinearHashMapDemo<K, V> {
 	int size = 0;

@@ -1,4 +1,5 @@
-package src.HashMap;
+package HashMap;
+
 import java.util.Map;
 
 // 拉链法解决哈希冲突
